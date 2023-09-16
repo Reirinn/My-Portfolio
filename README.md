@@ -1,13 +1,32 @@
 <h1 align="center">Hi 👋, I'm Rayleen Rae F. Bitoon</h1>
 <h3 align="center">A passionate Software Engineer from the Philippines</h3>
 
-
+  Hello! I am Rayleen Rae F. Bitoon from the Philippines. I am passionate about software engineering and developing systems that will be beneficial to mankind.
+  I have taken career certifications that helped me to improve and increase my knowledge about some fields like database management. You can see my certificates below.
+  I would be glad to gain more knowledge and experience with you!
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reirinn&label=Profile%20views&color=0e75b6&style=flat" alt="reirinn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reirinn" alt="reirinn" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
+- C E R T I F I C A T E S -
+- Business Analytics with Excel (September 7, 2023)
+  https://simpli-web.app.link/e/xd4zQDUV8Cb
+
+- Oracle Cloud Data Management 2022 Foundations Certified Associate (November 27, 2022)
+  https://catalog-education.oracle.com/pls/certview/sharebadge?id=078013BD3EB5384443776682F373458BAF55A563C1F4FDD99462B79AD23659BF 
+
+- Oracle Cloud Infrastructure 2022 Certified Foundations Associate (November 25, 2022)
+  https://catalog-education.oracle.com/pls/certview/sharebadge?id=664E300FE4BDB91033E7123A87326AEA5B6FBC8FD5547ED39965131A725E549A
+
+- Prospects of Emerging Technologies and Trends in Information Technology (November 25, 2022)
+  https://drive.google.com/file/d/1yKsRFha_874W7fn9DTPYGLaqzR_gNPaF/view?pli=1
+  
+- SQL and Relational Databases 101 (November 5, 2022)
+  https://courses.cognitiveclass.ai/certificates/91a06b9b055f4ad1a6b9fe8da417bc25
+  
 - 📫 How to reach me **bitoonrayleenrae@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
