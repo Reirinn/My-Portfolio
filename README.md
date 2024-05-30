@@ -1,5 +1,7 @@
 
 <h1 align="center" style= "color: black;">Hi 👋, I'm Rayleen Rae F. Bitoon</h1>
+
+
 <h3 align="center">A passionate Software Engineer from the Philippines</h3>
 
   Hello! I am Rayleen Rae F. Bitoon from the Philippines. I am passionate about software engineering and developing systems that will be beneficial to mankind.
@@ -45,3 +47,5 @@
 </html>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reirinn&show_icons=true&locale=en" alt="reirinn" /></p>
+
+![giphy](https://github.com/Reirinn/My-Portfolio/assets/142465054/a65fb291-012a-48d2-8b66-22046c1dcc31)
