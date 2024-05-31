@@ -8,9 +8,6 @@
   I have taken career certifications that helped me to improve and increase my knowledge about fields like database management. Below are my certifications that I took.
   I would be glad to gain more knowledge and experience with you!
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reirinn&label=Profile%20views&color=0e75b6&style=flat" alt="reirinn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reirinn" alt="reirinn" /></a> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
